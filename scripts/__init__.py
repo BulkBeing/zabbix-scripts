@@ -1,0 +1,1 @@
+from scripts.getinventory import getInventory, getHostDetails
